@@ -1,0 +1,4 @@
+chatterbot
+pyttsx3
+gtts
+pygame

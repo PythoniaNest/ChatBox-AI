@@ -110,3 +110,6 @@ Created by PythoniaNest Team
 ---
 
 **Happy Chatting!** 💬✨
+
+
+to start : /mnt/ad6ce59d-1334-41ec-be0b-0e1a3d7064c7/Program/AI/Chatterbox02/.venv/bin/python chatbot.py
